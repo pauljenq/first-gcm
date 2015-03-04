@@ -11,3 +11,5 @@ To run this application, you must have a Sender ID
 and a GCM server. For details, see:
 
 http://developer.android.com/google/gcm/gs.html
+
+start as first-gcm
